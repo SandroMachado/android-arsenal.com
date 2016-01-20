@@ -1485,6 +1485,8 @@ categories:
           url: https://github.com/keyboardsurfer/Crouton
         - name: MessageBar
           url: http://simonvt.github.io/MessageBar
+        - name: Restaurant
+          url: https://github.com/SandroMachado/restaurant  
         - name: SuperToasts
           url: https://github.com/JohnPersano/SuperToasts
         - name: SnackBar
